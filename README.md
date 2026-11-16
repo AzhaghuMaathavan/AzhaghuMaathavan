@@ -140,8 +140,8 @@ Technology strategy, connected infrastructure, and practical automation that hel
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AzhaghuMaathavan&show_icons=true&count_private=true&bg_color=0B0F14&title_color=FF9A1F&icon_color=FF6A00&text_color=F5F7FA&border_color=2B313B" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzhaghuMaathavan&layout=compact&count_private=true&bg_color=0B0F14&title_color=FF9A1F&text_color=F5F7FA&border_color=2B313B" alt="Top languages" height="165"/>
+  <img src="./assets/stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="./assets/languages.svg" alt="Most used languages" width="49%"/>
 </p>
 
 ## Connect

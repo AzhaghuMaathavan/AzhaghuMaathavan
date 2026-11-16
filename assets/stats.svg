@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="232" viewBox="0 0 480 232">
+  <rect width="480" height="232" rx="12" fill="#0B0F14" stroke="#2B313B"/>
+  <rect x="0" y="0" width="480" height="4" rx="2" fill="#FF6A00" opacity="0.9"/>
+  <text x="26" y="44" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#FF9A1F">GitHub Stats</text>
+  <text x="446" y="44" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#9CA3AF" text-anchor="end">since Sep 2023</text>
+  
+  <circle cx="34" cy="73" r="4" fill="#FF6A00"/>
+  <text x="50" y="78" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9CA3AF">Total commits</text>
+  <text x="446" y="78" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA" text-anchor="end">2,080</text>
+  <circle cx="34" cy="103" r="4" fill="#FF6A00"/>
+  <text x="50" y="108" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9CA3AF">Repositories</text>
+  <text x="446" y="108" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA" text-anchor="end">56</text>
+  <circle cx="34" cy="133" r="4" fill="#FF6A00"/>
+  <text x="50" y="138" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9CA3AF">Private production repos</text>
+  <text x="446" y="138" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA" text-anchor="end">46</text>
+  <circle cx="34" cy="163" r="4" fill="#FF6A00"/>
+  <text x="50" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9CA3AF">Public repositories</text>
+  <text x="446" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA" text-anchor="end">10</text>
+  <circle cx="34" cy="193" r="4" fill="#FF6A00"/>
+  <text x="50" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9CA3AF">Followers</text>
+  <text x="446" y="198" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#F5F7FA" text-anchor="end">3</text>
+</svg>
