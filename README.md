@@ -2,15 +2,11 @@
   <img src="./assets/banner.svg" alt="Azhaghu Maathavan M — Founder & Developer, ShyXon Technologies" width="100%"/>
 </p>
 
-<img align="right" src="https://shyxon.com/azhaghumaathavan.png" alt="Azhaghu Maathavan M" width="170"/>
-
 ### Design that clicks. *Software that works.*
 
 I'm **Azhaghu Maathavan M**, founder and developer at **[ShyXon Technologies](https://shyxon.com)** in Coimbatore. I build websites, applications, and custom software for businesses worldwide.
 
 **A developer's mind. A founder's drive.** My idea of starting ShyXon Technologies was to create dependable websites, web apps, and mobile experiences from ideas. Though physically located in Coimbatore, I serve clients worldwide — from startups to big companies. Being a developer and founder, I manage projects from start to finish: planning, working with designers, coding, and releasing. I am passionate about writing clean code, efficiency, and delivering products that genuinely address problems.
-
-<br clear="right"/>
 
 ## What we can build together
 
