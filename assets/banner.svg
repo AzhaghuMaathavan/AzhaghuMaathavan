@@ -1,20 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0f14"/>
-      <stop offset="1" stop-color="#16202b"/>
+      <stop offset="0" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#1A1F27"/>
     </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#c9962e"/>
-      <stop offset="1" stop-color="#f0c75e"/>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF9A1F"/>
+      <stop offset="0.5" stop-color="#FF6A00"/>
+      <stop offset="1" stop-color="#E64500"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="300" fill="url(#bg)"/>
-  <rect x="0" y="0" width="10" height="300" fill="url(#gold)"/>
-  <circle cx="1080" cy="40" r="150" fill="#f0c75e" opacity="0.06"/>
-  <circle cx="1140" cy="290" r="110" fill="#f0c75e" opacity="0.05"/>
-  <text x="70" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="54" fill="#ffffff" letter-spacing="1">Azhaghu Maathavan M</text>
-  <text x="72" y="168" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#f0c75e" letter-spacing="3">FOUNDER &amp; CEO — SHYXON TECHNOLOGIES</text>
-  <text x="72" y="218" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" fill="#b9c4cf">Full-stack developer · Building SaaS products, real-time audio &amp; cinematic web experiences</text>
-  <text x="72" y="262" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#7d8b99">Coimbatore, India &#160;·&#160; shyxon.com</text>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect x="0" y="0" width="10" height="320" fill="url(#brand)"/>
+  <circle cx="1090" cy="30" r="160" fill="#FF6A00" opacity="0.07"/>
+  <circle cx="1150" cy="310" r="120" fill="#FF9A1F" opacity="0.05"/>
+  <text x="70" y="112" font-family="Georgia, 'Times New Roman', serif" font-size="56" fill="#F5F7FA" letter-spacing="1">Azhaghu Maathavan M</text>
+  <text x="72" y="162" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#FF9A1F" letter-spacing="4">FOUNDER &amp; DEVELOPER — SHYXON TECHNOLOGIES</text>
+  <text x="72" y="216" font-family="Georgia, 'Times New Roman', serif" font-size="27" font-style="italic" fill="#F5F7FA">Independent thinking. End-to-end engineering.</text>
+  <text x="72" y="272" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9CA3AF">Rooted in Coimbatore. Building beyond borders. &#160;·&#160; shyxon.com</text>
 </svg>
