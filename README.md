@@ -4,9 +4,14 @@
 
 ### Design that clicks. *Software that works.*
 
-I'm **Azhaghu Maathavan M**, founder and developer at **[ShyXon Technologies](https://shyxon.com)** in Coimbatore. I build websites, applications, and custom software for businesses worldwide.
+I'm **Azhaghu Maathavan M**, founder and developer at **[ShyXon Technologies](https://shyxon.com)**. **A developer's mind. A founder's drive.** I started ShyXon to build dependable websites, web apps, and mobile experiences — and I run every project end to end: planning, design, code, and release. Based in Coimbatore, working with clients worldwide, from startups to established companies. Clean code, efficiency, and products that genuinely solve problems.
 
-**A developer's mind. A founder's drive.** My idea of starting ShyXon Technologies was to create dependable websites, web apps, and mobile experiences from ideas. Though physically located in Coimbatore, I serve clients worldwide — from startups to big companies. Being a developer and founder, I manage projects from start to finish: planning, working with designers, coding, and releasing. I am passionate about writing clean code, efficiency, and delivering products that genuinely address problems.
+## GitHub stats
+
+<p align="center">
+  <img src="./assets/stats.svg" alt="GitHub stats" width="49%"/>
+  <img src="./assets/languages.svg" alt="Most used languages" width="49%"/>
+</p>
 
 ## What we can build together
 
@@ -26,8 +31,6 @@ iOS, Android, and cross-platform applications with considered user journeys and 
 Technology strategy, connected infrastructure, and practical automation that help your business work more effectively.
 
 ## Selected work
-
-*Different businesses. Individual answers.*
 
 <table>
   <tr>
@@ -62,13 +65,13 @@ Technology strategy, connected infrastructure, and practical automation that hel
     <td width="50%" valign="top">
       <a href="https://sakalyadental.shyxon.com"><img src="https://shyxon.com/projects/sakalya-dental-720.webp" alt="Sakalya Dental" width="100%"/></a><br/>
       <b><a href="https://sakalyadental.shyxon.com">Sakalya Dental</a></b><br/>
-      A website for a dental clinic, presenting dental treatments, clinic information, and appointment enquiries.<br/>
+      Dental clinic website presenting treatments, clinic information, and appointment enquiries.<br/>
       <sub>Dental care</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://richmondhospitals.shyxon.com"><img src="https://shyxon.com/projects/richmond-hospitals-720.webp" alt="Richmond Hospitals" width="100%"/></a><br/>
       <b><a href="https://richmondhospitals.shyxon.com">Richmond Hospitals</a></b><br/>
-      A hospital website organising specialities, doctor information, and appointment enquiries.<br/>
+      Hospital website organising specialities, doctors, and appointment enquiries.<br/>
       <sub>Healthcare</sub>
     </td>
   </tr>
@@ -96,7 +99,7 @@ Technology strategy, connected infrastructure, and practical automation that hel
     <td width="50%" valign="top">
       <a href="https://photazo.in"><img src="https://shyxon.com/projects/photazo-720.webp" alt="Photazo" width="100%"/></a><br/>
       <b><a href="https://photazo.in">Photazo</a></b><br/>
-      Professional real estate photo editing website showcasing HDR, virtual twilight, and retouching services for property professionals.<br/>
+      Real estate photo editing website showcasing HDR, virtual twilight, and retouching for property professionals.<br/>
       <sub>Real estate photography</sub>
     </td>
   </tr>
@@ -104,9 +107,7 @@ Technology strategy, connected infrastructure, and practical automation that hel
 
 <p align="center"><a href="https://shyxon.com/work">Explore all the work on shyxon.com →</a></p>
 
-## The way forward
-
-*Thought through. Then built through.*
+## How I work
 
 **Understand** — Your goals, your users, and the work that needs to happen. →
 **Design** — A clear direction, explored through interfaces and prototypes. →
@@ -133,13 +134,6 @@ Technology strategy, connected infrastructure, and practical automation that hel
   <img src="https://img.shields.io/badge/Google_Cloud-1A1F27?style=flat-square&logo=googlecloud&logoColor=FF6A00" alt="Google Cloud"/>
 </p>
 
-## GitHub stats
-
-<p align="center">
-  <img src="./assets/stats.svg" alt="GitHub stats" width="49%"/>
-  <img src="./assets/languages.svg" alt="Most used languages" width="49%"/>
-</p>
-
 ## Connect
 
 - 🌐 **Website** — [shyxon.com](https://shyxon.com)
@@ -150,5 +144,4 @@ Technology strategy, connected infrastructure, and practical automation that hel
 
 ---
 
-<p align="center"><i>Digital experiences. Dependable engineering.</i></p>
 <p align="center"><sub>Most of my production work for ShyXon and its clients lives in private repositories — the work above is its public face.</sub></p>
